@@ -11,6 +11,7 @@ Additional description of the project and its features.
 - htnl
 - h1
 - div
+- CSS 
 
 ## Live Demo
 
