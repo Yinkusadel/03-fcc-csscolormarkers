@@ -1,4 +1,4 @@
-# Project Name
+# 03-fcc-csscolormarkers
 
 > One paragraph statement about the project.
 
@@ -8,13 +8,13 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- htnl
+- h1
+- div
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://03-fcc-csscolormakers.netlify.app)
 
 ### Development (Running locally)
 
