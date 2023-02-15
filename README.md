@@ -1,6 +1,6 @@
 # 03-fcc-csscolormarkers
 
-> One paragraph statement about the project.
+> CSS color markers built with html and css
 
 ![screenshot](./app_screenshot.png)
 
