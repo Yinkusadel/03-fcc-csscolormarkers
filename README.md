@@ -1,6 +1,6 @@
 # 03-fcc-csscolormarkers
 
-> CSS color markers built with html and css
+> Building a set of colored markers teaches different ways to set color values and how to pair colors with each other
 
 ![screenshot](./app_screenshot.png)
 
@@ -11,7 +11,7 @@ Additional description of the project and its features.
 - htnl
 - h1
 - div
-- CSS 
+- CSS
 
 ## Live Demo
 
