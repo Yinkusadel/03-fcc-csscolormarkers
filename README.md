@@ -8,10 +8,20 @@ Additional description of the project and its features.
 
 ## Built With
 
-- htnl
-- h1
-- div
-- CSS
+- ### HTML5 elements
+  - **Heading element**
+    `h1`
+  - **Block element**
+    `div`
+- ### CSS properties
+  - CSS background for page aesthetic using `background-color`.
+  - CSS selectors `class selector`
+  - CSS `linear gradient`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
