@@ -1,6 +1,6 @@
-# Project Name
+# 03-fcc-csscolormarkers
 
-> One paragraph statement about the project.
+> Building a set of colored markers teaches different ways to set color values and how to pair colors with each other
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,24 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- ### HTML5 elements
+  - **Heading element**
+    `h1`
+  - **Block element**
+    `div`
+- ### CSS properties
+  - CSS background for page aesthetic using `background-color`.
+  - CSS selectors `class selector`
+  - CSS `linear gradient`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://03-fcc-csscolormakers.netlify.app)
 
 ### Development (Running locally)
 
